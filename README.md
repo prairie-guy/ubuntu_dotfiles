@@ -5,7 +5,7 @@ configure your `bash` and `emacs` development environment as follows:
 
 ```sh
 cd $HOME
-git clone https://github.com/prairie-guy/ubuntu_dotfiles.git
+git clone https://github.com/prairie-guy/ubuntu_dotfiles.git dotfiles
 ln -sb dotfiles/.screenrc .
 ln -sb dotfiles/.bash_profile .
 ln -sb dotfiles/.bashrc .
