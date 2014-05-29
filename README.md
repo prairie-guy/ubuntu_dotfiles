@@ -1,6 +1,6 @@
 ubuntu_dotfiles.git
 ============
-Clone and run this on a new instance running Ubuntu 14.02 LTS to
+Clone and run this on a new instance running Ubuntu 14.04 LTS to
 configure your `bash` and `emacs` development environment as follows:
 
 ```sh
